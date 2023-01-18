@@ -61,7 +61,7 @@ flask --app app run
 - [Pandas](https://pandas.pydata.org/) - Data manipulation library
 - [PyTorch](https://pytorch.org/) - Machine learning library
 - [Google Language Detect](https://pypi.org/project/langdetect/) - Language detection library
-- [Google Translate](https://pypi.org/project/googletrans/) - Language translation library
+- [Google Translate](https://pypi.org/project/googletrans/) - Language translation library   
 
 ## Authors
 - **[Roger BYAKUNDA]** - *Initial work* - [kundaroger](https://github.com/kundaroger)
