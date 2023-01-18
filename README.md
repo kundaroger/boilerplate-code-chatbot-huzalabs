@@ -1,5 +1,5 @@
 # Chatbot-Link-Extractor
-A chatbot that can extract links from the RURA website using web scraping, natural language processing, and machine learning techniques.
+A chatbot that can extract links from the [RURA website](https://rura.rw/index.php?id=23) using web scraping, natural language processing, and machine learning techniques.
 
 ## Getting Started
 
