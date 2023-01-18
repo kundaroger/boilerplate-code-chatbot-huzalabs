@@ -64,7 +64,7 @@ flask --app app run
 - [Google Translate](https://pypi.org/project/googletrans/) - Language translation library   
 
 ## Authors
-- **[Roger BYAKUNDA]** - *Initial work* - [kundaroger](https://github.com/kundaroger)
+- **[@github]** - *BYAKUNDA ROger* - [kundaroger](https://github.com/kundaroger)
 
 ## Acknowledgments
 - Hat tip to anyone whose code was used
