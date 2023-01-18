@@ -14,10 +14,23 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 1. Create a virtual environment and activate it.
+```
+virtualenv env
+source env/bin/activate
+
+```
+for windows:
+```
+virtualenv env
+env\Scripts\activate.bat
+```
 
 2. Clone the repository and navigate to the project directory.
+```
+git clone https://github.com/<username>/Chatbot-Link-Extractor.git
+```
 
-3. Install the required packages.
+3. Navigate to develop branch.
 
 3. Install the required packages.
 
